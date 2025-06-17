@@ -1,0 +1,4 @@
+STEP
+1.choose  FwUpdateTool.exe to begin.
+2.choose load file to update fw.
+3.choose run to update.
